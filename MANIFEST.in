@@ -1,0 +1,29 @@
+
+
+# Incluir archivos principales
+include README.md
+include packages.txt
+include setup.py
+
+# Incluir código Python
+recursive-include audiorecorder *
+recursive-include core *
+
+# Incluir frontend del audiorecorder 
+recursive-include audiorecorder/frontend *
+
+# Incluir datos de los scripts
+recursive-include scripts/data *
+
+# Incluir scripts de entrenamiento y validación
+recursive-include scripts *.py
+recursive-include scripts *.txt
+
+# Incluir modelos entrenados
+recursive-include models *
+
+# Excluir carpetas generadas automáticamente
+exclude dist/
+exclude */__pycache__/*
+
+

@@ -84,6 +84,7 @@ pip install .
 
 ```bash
 python ia_que_cuida.py
+Streamline run ia_que_cuida.py
 ```
 
 ---
@@ -109,4 +110,3 @@ dist/
 
 **Máster en Inteligencia Artificial Avanzada y Generativa – MBIT School**  
 **Fecha:** 14/11/2025
-
