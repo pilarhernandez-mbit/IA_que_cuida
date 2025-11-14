@@ -1,0 +1,801 @@
+text,intent
+acuérdate de ponerme las gotas en una hora si puedes,recordatorio
+cómo renovar la receta electrónica por favor gracias,abierta
+no me molestes gracias quiero dormir,rechazo
+qué novedades hay en política en Madrid!,abierta
+llama a mi hija que vengan ya,alerta
+hola por favor,social
+no me apetece cariño estoy viendo la tele,rechazo
+me encuentro mal cuando puedas,alerta
+prefiero que no cariño estoy comiendo,rechazo
+ahora no hijo quiero dormir,rechazo
+que no se me olvide tomar las pastillas cada día a las 9 que suene fuerte,recordatorio
+qué puedo hacer de cena.,abierta
+avisa a la enfermera que vengan ya en el pasillo,alerta
+anótame tomar las pastillas mañana por la mañana por favor,recordatorio
+me siento solo,social
+no puedo respirar bien ahora mismo en el baño,alerta
+pon la SER cuando te venga bien,social
+apúntame hacer la compra en una hora que suene fuerte,recordatorio
+me siento solo si puedes,social
+pon la radio ¿vale?,social
+déjalo en la agenda ponerme las gotas mañana por la mañana por favor,recordatorio
+no me molestes,rechazo
+no me molestes hijo estoy comiendo,rechazo
+cómo pedir cita con el médico paso a paso gracias,abierta
+me dejas en paz gracias quiero dormir,rechazo
+déjame descansar por favor me duele la cabeza,rechazo
+recuérdame poner la insulina cuando acabe el telediario si puedes,recordatorio
+no me apetece hijo,rechazo
+qué tiempo hará mañana para torpes,abierta
+cuéntame algo por favor por favor,social
+me encuentro mal urgente en la cocina,alerta
+llama a mi hija no me dejes sola en el baño,alerta
+cómo pedir cita con el médico paso a paso!,abierta
+no insistas gracias,rechazo
+hoy no tengo ganas hijo,rechazo
+cómo renovar la receta electrónica para torpes,abierta
+ahora no por favor,rechazo
+me caí urgente estoy en el salón,alerta
+buenas tardes si puedes por favor,social
+necesito ayuda en mi cuarto,alerta
+me caí si es posible en el baño,alerta
+no me molestes hija quiero dormir,rechazo
+recuérdame hacer los ejercicios esta noche que no se me pase,recordatorio
+cuéntame algo por favor,social
+no me encuentro bien por favor en el pasillo,alerta
+cómo renovar la receta electrónica en mi barrio gracias,abierta
+me dejas en paz estoy viendo la tele,rechazo
+llama al 112 ahora mismo en el pasillo,alerta
+me siento solo por favor ¿vale?,social
+llama al 112 urgente en el baño,alerta
+recuérdame hacer los ejercicios mañana por la mañana que no se me pase,recordatorio
+va a llover hoy gracias,abierta
+hazme recordar hacer la compra esta noche que no se me pase,recordatorio
+me ahogo si es posible en el pasillo,alerta
+buenas tardes por favor gracias,social
+déjalo en la agenda tomar las pastillas a las 10 por favor,recordatorio
+cómo renovar la receta electrónica por favor,abierta
+me ahogo por favor en el pasillo,alerta
+acuérdate de poner la insulina cada día a las 9 si puedes,recordatorio
+mejor más tarde hijo me duele la cabeza,rechazo
+cómo se prepara un cocido por favor ¿vale?,abierta
+¿charlamos un rato? si puedes,social
+ahora no cariño me duele la cabeza,rechazo
+me encuentro mal no me dejes sola en el pasillo,alerta
+me dejas en paz cariño estoy comiendo,rechazo
+mejor más tarde hija me duele la cabeza,rechazo
+llama al médico estoy en el salón,alerta
+estoy triste cuando te venga bien!,social
+cómo pedir cita con el médico paso a paso,abierta
+ponme las noticias en Madrid.,abierta
+buenas noches cuando te venga bien.,social
+anímame un poco si puedes,social
+qué puedo hacer de cena paso a paso gracias,abierta
+buenas tardes!,social
+me encuentro mal por favor en el pasillo,alerta
+no me molestes quiero dormir,rechazo
+me siento solo,social
+va a llover hoy para torpes,abierta
+cómo pedir cita con el médico para torpes ¿vale?,abierta
+tengo fiebre urgente en el baño,alerta
+tengo fiebre si es posible,alerta
+me encuentro mal por favor en mi cuarto,alerta
+llama al médico si es posible en el pasillo,alerta
+cómo hago una tortilla por favor,abierta
+no me apetece,rechazo
+hoy no tengo ganas gracias quiero dormir,rechazo
+¿charlamos un rato?,social
+cuéntame algo,social
+mejor más tarde hijo quiero dormir,rechazo
+avisa a la enfermera cuando puedas en la cocina,alerta
+qué novedades hay en política por favor por favor,abierta
+no me apetece gracias quiero dormir,rechazo
+necesito ayuda que vengan ya en el pasillo,alerta
+va a llover hoy en mi barrio!,abierta
+explícame qué es la fibrilación auricular para torpes,abierta
+recuérdame cambiar el parche a las 9 si puedes,recordatorio
+qué tiempo hará mañana en Madrid,abierta
+me he caído ahora mismo,alerta
+prefiero que no hija quiero dormir,rechazo
+recuérdame medirme la tensión a las 9 si puedes,recordatorio
+pon la SER ¿vale?,social
+acuérdate de hacer la compra cada día a las 9 si puedes,recordatorio
+cómo renovar la receta electrónica por favor,abierta
+ahora no estoy comiendo,rechazo
+no necesito nada cariño,rechazo
+no me encuentro bien,alerta
+no me encuentro bien ahora mismo en mi cuarto,alerta
+qué novedades hay en política en mi barrio,abierta
+qué puedo hacer de cena para torpes,abierta
+cómo pedir cita con el médico en mi barrio,abierta
+¿charlamos un rato? cuando te venga bien ¿vale?,social
+me encuentro mal no me dejes solo,alerta
+buenas noches por favor,social
+hazme recordar hacer la compra cuando acabe el telediario,recordatorio
+cuéntame algo si puedes!,social
+cómo hago una tortilla,abierta
+avisa a la enfermera no me dejes sola en mi cuarto,alerta
+prefiero que no,rechazo
+ponme las noticias,abierta
+necesito ayuda si es posible,alerta
+ahora no por favor estoy comiendo,rechazo
+pon la radio por favor,social
+cuéntame algo,social
+apúntame tomar las pastillas cada día a las 9,recordatorio
+déjalo en la agenda hacer los ejercicios dentro de media hora,recordatorio
+avísame de beber agua esta tarde que suene fuerte,recordatorio
+ponme las noticias ¿vale?,abierta
+cuéntame algo cuando te venga bien.,social
+hola,social
+buenos días por favor,social
+no insistas gracias estoy viendo la tele,rechazo
+avisa a la enfermera ahora mismo en la cocina,alerta
+tengo fiebre no me dejes solo en mi cuarto,alerta
+cómo se prepara un cocido por favor,abierta
+ponme las noticias para torpes,abierta
+qué novedades hay en política para torpes,abierta
+ahora no cariño estoy comiendo,rechazo
+déjame descansar cariño estoy viendo la tele,rechazo
+pon la SER cuando te venga bien,social
+no quiero hablar ahora cariño me duele la cabeza,rechazo
+no quiero hablar ahora,rechazo
+explícame qué es la fibrilación auricular,abierta
+avísame de cambiar el parche en una hora que no se me pase,recordatorio
+apúntame ponerme las gotas cada día a las 9 por favor,recordatorio
+recuérdame tomar las pastillas dentro de media hora por favor,recordatorio
+déjame descansar cariño,rechazo
+me he caído por favor en la cocina,alerta
+recuérdame tomar las pastillas esta tarde que no se me pase,recordatorio
+recuérdame cambiar el parche a las 9 que suene fuerte,recordatorio
+explícame qué es la fibrilación auricular por favor,abierta
+pon la radio cuando te venga bien.,social
+tengo fiebre no me dejes solo en el baño,alerta
+buenos días por favor,social
+buenos días.,social
+me caí que vengan ya en mi cuarto,alerta
+hoy no tengo ganas cariño,rechazo
+prefiero que no hija estoy viendo la tele,rechazo
+pon la radio por favor ¿vale?,social
+avísame de tomar las pastillas esta tarde si puedes,recordatorio
+¿charlamos un rato? si puedes!,social
+pon una alarma para tomar las pastillas mañana por la mañana que suene fuerte,recordatorio
+déjame descansar cariño estoy comiendo,rechazo
+avísame de hacer la compra esta tarde que no se me pase,recordatorio
+pon una alarma para tomar la medicación cuando acabe el telediario que suene fuerte,recordatorio
+acuérdate de medirme la tensión dentro de media hora,recordatorio
+no me molestes hijo quiero dormir,rechazo
+pon música,social
+no me molestes hijo,rechazo
+me he caído no me dejes sola en el baño,alerta
+recuérdame hacer la compra a las 9 que no se me pase,recordatorio
+no me molestes por favor,rechazo
+háblame un poco por favor gracias,social
+avísame de cambiar el parche en una hora que suene fuerte,recordatorio
+no quiero hablar ahora hija estoy viendo la tele,rechazo
+me ahogo no me dejes solo en la cocina,alerta
+pon una alarma para hacer la compra a las 9,recordatorio
+déjalo en la agenda poner la insulina en una hora si puedes,recordatorio
+¿charlamos un rato? cuando te venga bien.,social
+llama al médico por favor en el pasillo,alerta
+avísame de poner la insulina en una hora si puedes,recordatorio
+anímame un poco ¿vale?,social
+que no se me olvide ponerme las gotas esta tarde que no se me pase,recordatorio
+no quiero hablar ahora hija,rechazo
+cómo se prepara un cocido paso a paso,abierta
+déjame descansar quiero dormir,rechazo
+pon una alarma para medirme la tensión esta tarde si puedes,recordatorio
+cómo pedir cita con el médico por favor,abierta
+hoy no tengo ganas hija estoy viendo la tele,rechazo
+me dejas en paz gracias estoy comiendo,rechazo
+qué puedo hacer de cena paso a paso,abierta
+me siento solo cuando te venga bien,social
+déjalo en la agenda cambiar el parche cada día a las 9 si puedes,recordatorio
+explícame qué es la fibrilación auricular en mi barrio,abierta
+ponme flamenco por favor.,social
+me siento sola,social
+cuéntame algo si puedes,social
+recuérdame llamar al médico esta tarde,recordatorio
+buenos días.,social
+tengo fiebre si es posible en el baño,alerta
+déjalo en la agenda poner la insulina a las 10,recordatorio
+me duele mucho en el pasillo,alerta
+pon música cuando te venga bien,social
+me sangra la nariz no me dejes solo en el pasillo,alerta
+ponme un recordatorio para tomar las pastillas esta tarde si puedes,recordatorio
+buenas noches por favor,social
+buenos días por favor gracias,social
+me encuentro mal por favor,alerta
+qué tiempo hará mañana para torpes ¿vale?,abierta
+me ahogo por favor,alerta
+cómo hago una tortilla paso a paso ¿vale?,abierta
+¿charlamos un rato? por favor,social
+prefiero que no hijo quiero dormir,rechazo
+avísame de cambiar el parche a las 10,recordatorio
+ponme las noticias en mi barrio,abierta
+qué tiempo hará mañana en Madrid por favor,abierta
+buenas tardes cuando te venga bien!,social
+ahora no quiero dormir,rechazo
+ponme flamenco!,social
+háblame un poco,social
+llama al 112 no me dejes sola en mi cuarto,alerta
+ponme flamenco por favor,social
+hazme recordar tomar la medicación a las 9 que no se me pase,recordatorio
+cómo renovar la receta electrónica paso a paso!,abierta
+avísame de tomar la medicación a las 10 que no se me pase,recordatorio
+no insistas hijo me duele la cabeza,rechazo
+cómo pedir cita con el médico para torpes por favor,abierta
+hoy no tengo ganas hija estoy comiendo,rechazo
+no necesito nada gracias estoy viendo la tele,rechazo
+llama a mi hija,alerta
+me dejas en paz cariño me duele la cabeza,rechazo
+no me molestes gracias me duele la cabeza,rechazo
+me siento sola,social
+me dejas en paz hija estoy comiendo,rechazo
+no insistas hija estoy comiendo,rechazo
+explícame qué es la fibrilación auricular para torpes ¿vale?,abierta
+ponme un recordatorio para beber agua en una hora si puedes,recordatorio
+cómo hago una tortilla por favor,abierta
+avísame de medirme la tensión mañana por la mañana que no se me pase,recordatorio
+hoy no tengo ganas hijo estoy comiendo,rechazo
+hoy no tengo ganas quiero dormir,rechazo
+buenos días por favor por favor,social
+déjame descansar por favor estoy comiendo,rechazo
+ponme las noticias en Madrid,abierta
+no insistas hijo estoy comiendo,rechazo
+anímame un poco si puedes!,social
+buenos días,social
+llama a mi hijo estoy en el salón,alerta
+ponme un recordatorio para beber agua a las 8 por favor,recordatorio
+ponme las noticias en Madrid!,abierta
+cómo renovar la receta electrónica paso a paso,abierta
+va a llover hoy en mi barrio,abierta
+cómo pedir cita con el médico,abierta
+no me encuentro bien por favor estoy en el salón,alerta
+cómo hago una tortilla en mi barrio ¿vale?,abierta
+cómo renovar la receta electrónica paso a paso,abierta
+pon la SER por favor,social
+prefiero que no por favor quiero dormir,rechazo
+anótame beber agua a las 8 que no se me pase,recordatorio
+buenas noches,social
+pon la SER cuando te venga bien ¿vale?,social
+me ahogo no me dejes solo estoy en el salón,alerta
+me siento sola si puedes!,social
+no necesito nada gracias,rechazo
+déjame descansar por favor,rechazo
+anótame medirme la tensión a las 8 por favor,recordatorio
+háblame un poco si puedes,social
+ponme las noticias en Madrid!,abierta
+buenos días si puedes.,social
+qué novedades hay en política por favor!,abierta
+no me molestes hija,rechazo
+no puedo respirar bien que vengan ya estoy en el salón,alerta
+cómo hago una tortilla por favor ¿vale?,abierta
+me duele mucho si es posible en mi cuarto,alerta
+¿charlamos un rato? gracias,social
+que no se me olvide cambiar el parche esta tarde,recordatorio
+buenas noches por favor,social
+ponme flamenco cuando te venga bien!,social
+buenas tardes cuando te venga bien,social
+llama a mi hija si es posible en el pasillo,alerta
+no me molestes cariño quiero dormir,rechazo
+no me molestes estoy comiendo,rechazo
+pon la radio por favor,social
+no me encuentro bien urgente en mi cuarto,alerta
+necesito ayuda no me dejes solo estoy en el salón,alerta
+qué novedades hay en política para torpes gracias,abierta
+qué puedo hacer de cena por favor,abierta
+tengo fiebre que vengan ya,alerta
+buenas tardes si puedes,social
+avísame de beber agua en una hora que suene fuerte,recordatorio
+ponme las noticias para torpes gracias,abierta
+me caí no me dejes sola en el pasillo,alerta
+ponme un recordatorio para poner la insulina mañana por la mañana por favor,recordatorio
+llama al 112 por favor en el pasillo,alerta
+me he caído si es posible en mi cuarto,alerta
+prefiero que no por favor me duele la cabeza,rechazo
+qué tiempo hará mañana en mi barrio,abierta
+buenas noches cuando te venga bien ¿vale?,social
+hola cuando te venga bien ¿vale?,social
+hazme recordar cambiar el parche a las 8 si puedes,recordatorio
+tengo fiebre no me dejes sola estoy en el salón,alerta
+déjame descansar hija estoy comiendo,rechazo
+no necesito nada hija,rechazo
+llama a mi hija no me dejes solo,alerta
+anótame beber agua mañana por la mañana que no se me pase,recordatorio
+no necesito nada hija quiero dormir,rechazo
+pon la SER si puedes,social
+apúntame hacer los ejercicios a las 8,recordatorio
+cómo renovar la receta electrónica en Madrid,abierta
+apúntame tomar la medicación en una hora por favor,recordatorio
+no me molestes cariño estoy comiendo,rechazo
+qué puedo hacer de cena,abierta
+déjalo en la agenda tomar la medicación a las 9 que suene fuerte,recordatorio
+buenas noches cuando te venga bien gracias,social
+avisa a la enfermera en el baño,alerta
+cómo se prepara un cocido en mi barrio por favor,abierta
+llama a mi hijo cuando puedas en mi cuarto,alerta
+hola si puedes,social
+avísame de hacer los ejercicios dentro de media hora que no se me pase,recordatorio
+buenas tardes si puedes,social
+estoy triste ¿vale?,social
+pon música por favor,social
+acuérdate de hacer la compra a las 8 por favor,recordatorio
+qué puedo hacer de cena en Madrid por favor,abierta
+llama al 112 que vengan ya,alerta
+ponme un recordatorio para tomar las pastillas dentro de media hora,recordatorio
+no quiero hablar ahora hija estoy comiendo,rechazo
+pon la radio,social
+hazme recordar llamar al médico cuando acabe el telediario que suene fuerte,recordatorio
+no me molestes hijo estoy viendo la tele,rechazo
+mejor más tarde gracias quiero dormir,rechazo
+hoy no tengo ganas por favor,rechazo
+ponme las noticias paso a paso,abierta
+buenos días si puedes,social
+no me molestes hija estoy comiendo,rechazo
+hoy no tengo ganas hija,rechazo
+anótame tomar la medicación esta tarde por favor,recordatorio
+no necesito nada hijo estoy comiendo,rechazo
+que no se me olvide cambiar el parche mañana por la mañana,recordatorio
+me encuentro mal cuando puedas estoy en el salón,alerta
+anótame poner la insulina en una hora,recordatorio
+llama a mi hija en el baño,alerta
+qué novedades hay en política para torpes por favor,abierta
+déjame descansar hijo,rechazo
+no quiero hablar ahora hijo estoy comiendo,rechazo
+pon la radio si puedes!,social
+cómo se prepara un cocido en Madrid,abierta
+no quiero hablar ahora gracias me duele la cabeza,rechazo
+no necesito nada hijo,rechazo
+no quiero hablar ahora quiero dormir,rechazo
+no me molestes me duele la cabeza,rechazo
+pon una alarma para hacer los ejercicios esta tarde que no se me pase,recordatorio
+pon una alarma para poner la insulina cuando acabe el telediario por favor,recordatorio
+cómo renovar la receta electrónica paso a paso gracias,abierta
+cómo se prepara un cocido para torpes!,abierta
+va a llover hoy por favor,abierta
+llama al 112 que vengan ya en el pasillo,alerta
+me siento sola por favor,social
+ponme las noticias en Madrid gracias,abierta
+llama al médico si es posible estoy en el salón,alerta
+ahora no cariño estoy viendo la tele,rechazo
+cómo se prepara un cocido en mi barrio,abierta
+me duele mucho en el baño,alerta
+ponme un recordatorio para cambiar el parche mañana por la mañana si puedes,recordatorio
+necesito ayuda cuando puedas en la cocina,alerta
+llama a mi hija en mi cuarto,alerta
+me dejas en paz cariño,rechazo
+hazme recordar tomar la medicación dentro de media hora,recordatorio
+buenas tardes por favor!,social
+me siento solo si puedes!,social
+déjalo en la agenda hacer la compra esta tarde que no se me pase,recordatorio
+qué novedades hay en política paso a paso por favor,abierta
+déjalo en la agenda tomar la medicación a las 9,recordatorio
+me dejas en paz hija me duele la cabeza,rechazo
+avísame de tomar la medicación a las 10 que suene fuerte,recordatorio
+cómo renovar la receta electrónica ¿vale?,abierta
+anímame un poco cuando te venga bien,social
+pon la COPE gracias,social
+hoy no tengo ganas por favor estoy viendo la tele,rechazo
+me caí ahora mismo,alerta
+llama a mi hijo por favor,alerta
+explícame qué es la fibrilación auricular en Madrid,abierta
+qué puedo hacer de cena en Madrid,abierta
+apúntame ponerme las gotas esta tarde que suene fuerte,recordatorio
+cómo se prepara un cocido para torpes,abierta
+tengo fiebre cuando puedas en el baño,alerta
+explícame qué es la fibrilación auricular paso a paso,abierta
+cuéntame algo si puedes ¿vale?,social
+me caí que vengan ya estoy en el salón,alerta
+ponme flamenco,social
+llama a mi hija si es posible estoy en el salón,alerta
+hoy no tengo ganas estoy comiendo,rechazo
+cuéntame algo si puedes por favor,social
+pon una alarma para tomar las pastillas cuando acabe el telediario que no se me pase,recordatorio
+me ahogo por favor en mi cuarto,alerta
+me dejas en paz,rechazo
+no me apetece gracias estoy comiendo,rechazo
+ahora no por favor me duele la cabeza,rechazo
+pon la COPE,social
+no me encuentro bien por favor en mi cuarto,alerta
+explícame qué es la fibrilación auricular paso a paso por favor,abierta
+cómo hago una tortilla paso a paso,abierta
+qué novedades hay en política,abierta
+no me encuentro bien estoy en el salón,alerta
+me encuentro mal si es posible en el baño,alerta
+no me apetece quiero dormir,rechazo
+anótame poner la insulina cada día a las 9 que suene fuerte,recordatorio
+qué puedo hacer de cena en Madrid!,abierta
+mejor más tarde cariño me duele la cabeza,rechazo
+recuérdame beber agua esta tarde que suene fuerte,recordatorio
+cómo hago una tortilla en mi barrio gracias,abierta
+hola por favor.,social
+pon la COPE por favor.,social
+explícame qué es la fibrilación auricular por favor ¿vale?,abierta
+cómo pedir cita con el médico,abierta
+háblame un poco si puedes ¿vale?,social
+buenas noches si puedes,social
+déjame descansar,rechazo
+me ahogo no me dejes solo en el pasillo,alerta
+me siento sola cuando te venga bien por favor,social
+qué novedades hay en política gracias,abierta
+cómo hago una tortilla para torpes,abierta
+no necesito nada hija estoy comiendo,rechazo
+me sangra la nariz si es posible,alerta
+no insistas cariño,rechazo
+cómo pedir cita con el médico para torpes,abierta
+qué puedo hacer de cena!,abierta
+cómo hago una tortilla por favor,abierta
+déjalo en la agenda tomar la medicación mañana por la mañana si puedes,recordatorio
+cómo hago una tortilla en mi barrio,abierta
+pon una alarma para tomar la medicación mañana por la mañana por favor,recordatorio
+anótame llamar al médico esta noche por favor,recordatorio
+buenas noches cuando te venga bien,social
+tengo fiebre urgente en la cocina,alerta
+llama al 112 que vengan ya en la cocina,alerta
+explícame qué es la fibrilación auricular ¿vale?,abierta
+va a llover hoy paso a paso,abierta
+recuérdame medirme la tensión en una hora por favor,recordatorio
+ponme flamenco cuando te venga bien,social
+mejor más tarde gracias estoy viendo la tele,rechazo
+prefiero que no por favor estoy comiendo,rechazo
+anótame hacer la compra a las 9,recordatorio
+me siento solo por favor,social
+déjalo en la agenda tomar las pastillas mañana por la mañana si puedes,recordatorio
+ponme las noticias paso a paso por favor,abierta
+qué tiempo hará mañana paso a paso,abierta
+pon una alarma para poner la insulina a las 9 que suene fuerte,recordatorio
+háblame un poco por favor ¿vale?,social
+explícame qué es la fibrilación auricular por favor gracias,abierta
+déjalo en la agenda beber agua cuando acabe el telediario que no se me pase,recordatorio
+necesito ayuda ahora mismo en el baño,alerta
+ahora no gracias estoy comiendo,rechazo
+qué tiempo hará mañana por favor ¿vale?,abierta
+déjalo en la agenda ponerme las gotas cada día a las 9 si puedes,recordatorio
+tengo fiebre urgente estoy en el salón,alerta
+no quiero hablar ahora por favor estoy comiendo,rechazo
+déjalo en la agenda tomar las pastillas a las 10 que suene fuerte,recordatorio
+va a llover hoy en Madrid,abierta
+me ahogo cuando puedas en mi cuarto,alerta
+cómo renovar la receta electrónica en Madrid por favor,abierta
+pon la radio ¿vale?,social
+anímame un poco,social
+ponme un recordatorio para poner la insulina a las 10 si puedes,recordatorio
+cómo se prepara un cocido en mi barrio gracias,abierta
+no quiero hablar ahora hijo quiero dormir,rechazo
+llama a mi hija urgente en el pasillo,alerta
+avísame de beber agua mañana por la mañana que no se me pase,recordatorio
+necesito ayuda no me dejes solo,alerta
+me dejas en paz hijo me duele la cabeza,rechazo
+háblame un poco,social
+estoy triste por favor,social
+llama al médico urgente en la cocina,alerta
+no quiero hablar ahora cariño estoy viendo la tele,rechazo
+que no se me olvide llamar al médico a las 8 por favor,recordatorio
+acuérdate de tomar las pastillas a las 9 si puedes,recordatorio
+me dejas en paz por favor me duele la cabeza,rechazo
+cómo hago una tortilla en mi barrio gracias,abierta
+qué puedo hacer de cena.,abierta
+pon la SER si puedes!,social
+que no se me olvide cambiar el parche esta tarde por favor,recordatorio
+me siento solo si puedes por favor,social
+pon la COPE cuando te venga bien,social
+no me apetece gracias me duele la cabeza,rechazo
+mejor más tarde cariño,rechazo
+me sangra la nariz en el baño,alerta
+explícame qué es la fibrilación auricular para torpes,abierta
+me caí no me dejes sola estoy en el salón,alerta
+anótame tomar las pastillas a las 10 que no se me pase,recordatorio
+estoy triste cuando te venga bien,social
+buenas tardes por favor,social
+no quiero hablar ahora me duele la cabeza,rechazo
+hazme recordar hacer los ejercicios dentro de media hora que no se me pase,recordatorio
+no me apetece hija estoy viendo la tele,rechazo
+qué novedades hay en política para torpes gracias,abierta
+cómo pedir cita con el médico,abierta
+no puedo respirar bien que vengan ya,alerta
+acuérdate de llamar al médico cuando acabe el telediario que suene fuerte,recordatorio
+acuérdate de hacer los ejercicios esta noche que no se me pase,recordatorio
+cómo hago una tortilla en Madrid,abierta
+cómo pedir cita con el médico en Madrid,abierta
+tengo fiebre cuando puedas estoy en el salón,alerta
+me caí cuando puedas,alerta
+me duele mucho no me dejes sola en el pasillo,alerta
+avisa a la enfermera cuando puedas,alerta
+ahora no gracias estoy viendo la tele,rechazo
+hazme recordar poner la insulina en una hora,recordatorio
+¿charlamos un rato? cuando te venga bien por favor,social
+no me encuentro bien urgente en la cocina,alerta
+me duele mucho cuando puedas en el pasillo,alerta
+no necesito nada hija me duele la cabeza,rechazo
+apúntame cambiar el parche cada día a las 9 por favor,recordatorio
+ponme un recordatorio para beber agua mañana por la mañana que no se me pase,recordatorio
+anímame un poco por favor ¿vale?,social
+ponme las noticias para torpes gracias,abierta
+llama al 112 no me dejes sola en la cocina,alerta
+avísame de medirme la tensión a las 10 por favor,recordatorio
+pon una alarma para poner la insulina cuando acabe el telediario,recordatorio
+que no se me olvide tomar la medicación a las 10 que no se me pase,recordatorio
+mejor más tarde cariño quiero dormir,rechazo
+tengo fiebre no me dejes sola en el pasillo,alerta
+qué puedo hacer de cena por favor gracias,abierta
+hoy no tengo ganas gracias me duele la cabeza,rechazo
+no puedo respirar bien si es posible en el baño,alerta
+cómo pedir cita con el médico en Madrid!,abierta
+cuéntame algo cuando te venga bien,social
+pon la radio si puedes gracias,social
+apúntame tomar las pastillas a las 9 por favor,recordatorio
+avisa a la enfermera si es posible estoy en el salón,alerta
+hazme recordar medirme la tensión a las 8 que no se me pase,recordatorio
+acuérdate de cambiar el parche esta tarde por favor,recordatorio
+me he caído cuando puedas en el pasillo,alerta
+no puedo respirar bien que vengan ya en la cocina,alerta
+apúntame beber agua en una hora por favor,recordatorio
+va a llover hoy,abierta
+me siento solo si puedes,social
+avisa a la enfermera por favor en el pasillo,alerta
+va a llover hoy para torpes,abierta
+hola cuando te venga bien,social
+estoy triste,social
+anímame un poco por favor gracias,social
+avísame de cambiar el parche a las 9 que no se me pase,recordatorio
+déjalo en la agenda poner la insulina esta noche si puedes,recordatorio
+me encuentro mal,alerta
+avísame de beber agua a las 10,recordatorio
+tengo fiebre por favor en el baño,alerta
+necesito ayuda urgente estoy en el salón,alerta
+no me encuentro bien cuando puedas en el pasillo,alerta
+no me molestes gracias estoy viendo la tele,rechazo
+buenas tardes por favor por favor,social
+tengo fiebre no me dejes solo estoy en el salón,alerta
+¿charlamos un rato? cuando te venga bien!,social
+ahora no estoy viendo la tele,rechazo
+llama a mi hija no me dejes sola estoy en el salón,alerta
+ponme las noticias por favor!,abierta
+ponme flamenco si puedes.,social
+no puedo respirar bien urgente en mi cuarto,alerta
+hazme recordar cambiar el parche esta tarde que suene fuerte,recordatorio
+acuérdate de hacer la compra cada día a las 9 que no se me pase,recordatorio
+buenas tardes!,social
+cómo hago una tortilla ¿vale?,abierta
+hoy no tengo ganas gracias estoy comiendo,rechazo
+hazme recordar poner la insulina esta noche si puedes,recordatorio
+me duele mucho no me dejes sola en mi cuarto,alerta
+déjalo en la agenda medirme la tensión a las 9 si puedes,recordatorio
+buenas tardes por favor.,social
+ahora no hija estoy viendo la tele,rechazo
+que no se me olvide beber agua a las 10 que suene fuerte,recordatorio
+acuérdate de tomar la medicación a las 8 por favor,recordatorio
+me siento solo por favor ¿vale?,social
+pon la COPE si puedes!,social
+recuérdame llamar al médico esta noche que suene fuerte,recordatorio
+ponme las noticias por favor.,abierta
+estoy triste,social
+cómo pedir cita con el médico en Madrid,abierta
+ponme un recordatorio para beber agua a las 10 por favor,recordatorio
+mejor más tarde estoy comiendo,rechazo
+pon la radio por favor,social
+anímame un poco cuando te venga bien,social
+mejor más tarde hijo,rechazo
+me siento sola si puedes.,social
+qué novedades hay en política paso a paso,abierta
+llama a mi hija no me dejes solo estoy en el salón,alerta
+llama a mi hija no me dejes solo en mi cuarto,alerta
+me he caído ahora mismo en el baño,alerta
+cómo renovar la receta electrónica por favor,abierta
+qué novedades hay en política en Madrid!,abierta
+anótame cambiar el parche dentro de media hora,recordatorio
+pon música si puedes gracias,social
+hoy no tengo ganas gracias,rechazo
+va a llover hoy paso a paso ¿vale?,abierta
+buenos días si puedes,social
+hoy no tengo ganas estoy viendo la tele,rechazo
+no me apetece hijo quiero dormir,rechazo
+qué novedades hay en política por favor,abierta
+pon una alarma para hacer la compra en una hora,recordatorio
+hazme recordar beber agua en una hora que no se me pase,recordatorio
+estoy triste cuando te venga bien.,social
+pon la radio si puedes,social
+qué puedo hacer de cena por favor,abierta
+qué novedades hay en política por favor!,abierta
+me he caído no me dejes solo en el pasillo,alerta
+me sangra la nariz por favor estoy en el salón,alerta
+no me molestes hija estoy viendo la tele,rechazo
+me ahogo si es posible estoy en el salón,alerta
+me encuentro mal urgente en mi cuarto,alerta
+me siento sola si puedes,social
+anótame medirme la tensión esta noche que no se me pase,recordatorio
+no insistas cariño quiero dormir,rechazo
+me ahogo urgente en el baño,alerta
+cómo hago una tortilla,abierta
+mejor más tarde hijo estoy comiendo,rechazo
+llama al 112 cuando puedas en el baño,alerta
+ponme las noticias por favor!,abierta
+me duele mucho no me dejes sola estoy en el salón,alerta
+buenas tardes,social
+anótame llamar al médico a las 10 si puedes,recordatorio
+déjame descansar hija quiero dormir,rechazo
+no me apetece por favor,rechazo
+me caí urgente en el pasillo,alerta
+no necesito nada por favor estoy comiendo,rechazo
+ponme las noticias gracias,abierta
+anótame tomar la medicación dentro de media hora por favor,recordatorio
+ahora no hijo,rechazo
+prefiero que no gracias quiero dormir,rechazo
+cómo se prepara un cocido paso a paso.,abierta
+necesito ayuda ahora mismo en el pasillo,alerta
+déjalo en la agenda hacer la compra en una hora,recordatorio
+qué novedades hay en política en Madrid,abierta
+qué tiempo hará mañana,abierta
+pon música si puedes,social
+anímame un poco si puedes!,social
+hazme recordar cambiar el parche a las 10,recordatorio
+me caí no me dejes sola en mi cuarto,alerta
+me ahogo en mi cuarto,alerta
+déjalo en la agenda medirme la tensión dentro de media hora,recordatorio
+pon una alarma para cambiar el parche dentro de media hora que suene fuerte,recordatorio
+apúntame llamar al médico en una hora si puedes,recordatorio
+háblame un poco por favor,social
+avísame de ponerme las gotas dentro de media hora por favor,recordatorio
+ahora no cariño quiero dormir,rechazo
+llama a mi hijo por favor en el pasillo,alerta
+me dejas en paz hijo estoy comiendo,rechazo
+hola por favor,social
+no quiero hablar ahora hijo me duele la cabeza,rechazo
+cómo hago una tortilla paso a paso gracias,abierta
+cuéntame algo gracias,social
+anótame beber agua dentro de media hora que suene fuerte,recordatorio
+buenas tardes cuando te venga bien ¿vale?,social
+pon la SER,social
+pon la COPE cuando te venga bien.,social
+me sangra la nariz estoy en el salón,alerta
+tengo fiebre cuando puedas en mi cuarto,alerta
+háblame un poco cuando te venga bien,social
+pon una alarma para medirme la tensión esta noche por favor,recordatorio
+anótame beber agua dentro de media hora,recordatorio
+no me encuentro bien no me dejes solo en el baño,alerta
+cómo renovar la receta electrónica,abierta
+cómo pedir cita con el médico para torpes gracias,abierta
+no quiero hablar ahora hijo,rechazo
+cómo hago una tortilla en Madrid,abierta
+cómo pedir cita con el médico por favor,abierta
+llama a mi hija no me dejes solo en el pasillo,alerta
+llama al médico urgente,alerta
+va a llover hoy para torpes,abierta
+ahora no por favor quiero dormir,rechazo
+pon la radio cuando te venga bien,social
+pon una alarma para cambiar el parche mañana por la mañana que no se me pase,recordatorio
+me siento sola ¿vale?,social
+cómo hago una tortilla!,abierta
+ponme flamenco si puedes,social
+no insistas hija me duele la cabeza,rechazo
+tengo fiebre por favor en mi cuarto,alerta
+anímame un poco si puedes!,social
+pon una alarma para cambiar el parche a las 10,recordatorio
+déjame descansar gracias me duele la cabeza,rechazo
+que no se me olvide cambiar el parche a las 8 si puedes,recordatorio
+anímame un poco por favor,social
+llama al médico cuando puedas,alerta
+¿charlamos un rato? cuando te venga bien,social
+me he caído por favor en el baño,alerta
+va a llover hoy en Madrid,abierta
+llama al 112 en el baño,alerta
+recuérdame tomar las pastillas a las 8 si puedes,recordatorio
+no puedo respirar bien no me dejes solo en la cocina,alerta
+hazme recordar cambiar el parche esta noche por favor,recordatorio
+llama al médico no me dejes sola en mi cuarto,alerta
+no me apetece hijo me duele la cabeza,rechazo
+ponme un recordatorio para llamar al médico en una hora si puedes,recordatorio
+ahora no gracias quiero dormir,rechazo
+no me encuentro bien que vengan ya estoy en el salón,alerta
+cómo hago una tortilla en Madrid.,abierta
+háblame un poco ¿vale?,social
+me caí por favor en la cocina,alerta
+pon una alarma para beber agua en una hora que no se me pase,recordatorio
+qué novedades hay en política en mi barrio gracias,abierta
+cómo renovar la receta electrónica en Madrid.,abierta
+pon la COPE por favor,social
+estoy triste por favor.,social
+no me encuentro bien que vengan ya en mi cuarto,alerta
+me encuentro mal ahora mismo en el pasillo,alerta
+buenos días por favor!,social
+me dejas en paz por favor,rechazo
+me sangra la nariz ahora mismo en el pasillo,alerta
+me siento solo!,social
+me caí ahora mismo en el pasillo,alerta
+ponme un recordatorio para ponerme las gotas a las 10 por favor,recordatorio
+cómo renovar la receta electrónica en mi barrio,abierta
+tengo fiebre no me dejes sola en mi cuarto,alerta
+no insistas por favor estoy comiendo,rechazo
+ponme las noticias en Madrid gracias,abierta
+cómo renovar la receta electrónica paso a paso,abierta
+buenos días cuando te venga bien ¿vale?,social
+ponme las noticias para torpes.,abierta
+me dejas en paz por favor estoy comiendo,rechazo
+no me encuentro bien en mi cuarto,alerta
+acuérdate de ponerme las gotas dentro de media hora que suene fuerte,recordatorio
+qué novedades hay en política en mi barrio!,abierta
+llama a mi hija si es posible en la cocina,alerta
+qué tiempo hará mañana por favor,abierta
+cómo se prepara un cocido en Madrid,abierta
+avisa a la enfermera por favor estoy en el salón,alerta
+mejor más tarde,rechazo
+llama al médico no me dejes solo en la cocina,alerta
+no insistas hijo quiero dormir,rechazo
+ponme un recordatorio para medirme la tensión esta tarde,recordatorio
+hazme recordar hacer la compra a las 8 que suene fuerte,recordatorio
+tengo fiebre si es posible en la cocina,alerta
+déjame descansar hijo quiero dormir,rechazo
+ahora no hija estoy comiendo,rechazo
+mejor más tarde hija estoy comiendo,rechazo
+qué tiempo hará mañana paso a paso,abierta
+qué novedades hay en política en Madrid.,abierta
+no insistas estoy viendo la tele,rechazo
+no necesito nada por favor,rechazo
+cómo renovar la receta electrónica por favor por favor,abierta
+anímame un poco!,social
+tengo fiebre cuando puedas en el pasillo,alerta
+anótame hacer la compra esta tarde por favor,recordatorio
+apúntame tomar las pastillas a las 8 que suene fuerte,recordatorio
+pon la SER si puedes,social
+no me apetece cariño estoy comiendo,rechazo
+qué tiempo hará mañana en Madrid ¿vale?,abierta
+anótame tomar las pastillas esta noche,recordatorio
+me siento sola cuando te venga bien,social
+hoy no tengo ganas por favor quiero dormir,rechazo
+llama al 112 estoy en el salón,alerta
+no necesito nada gracias quiero dormir,rechazo
+prefiero que no hija estoy comiendo,rechazo
+pon la radio.,social
+llama al 112 no me dejes solo en el baño,alerta
+qué puedo hacer de cena en Madrid!,abierta
+buenos días cuando te venga bien,social
+no insistas,rechazo
+que no se me olvide hacer la compra a las 8 que suene fuerte,recordatorio
+me sangra la nariz ahora mismo estoy en el salón,alerta
+no puedo respirar bien no me dejes sola en el baño,alerta
+recuérdame ponerme las gotas en una hora si puedes,recordatorio
+apúntame medirme la tensión a las 8 que suene fuerte,recordatorio
+no me encuentro bien si es posible en el baño,alerta
+me dejas en paz gracias estoy viendo la tele,rechazo
+estoy triste cuando te venga bien por favor,social
+qué puedo hacer de cena en mi barrio,abierta
+qué tiempo hará mañana por favor,abierta
+apúntame tomar las pastillas dentro de media hora por favor,recordatorio
+que no se me olvide hacer la compra en una hora que suene fuerte,recordatorio
+acuérdate de hacer los ejercicios cuando acabe el telediario si puedes,recordatorio
+hazme recordar poner la insulina a las 8 si puedes,recordatorio
+no puedo respirar bien cuando puedas en mi cuarto,alerta
+me dejas en paz hijo quiero dormir,rechazo
+anótame cambiar el parche mañana por la mañana por favor,recordatorio
+déjame descansar hijo me duele la cabeza,rechazo
+explícame qué es la fibrilación auricular paso a paso,abierta
+prefiero que no gracias estoy comiendo,rechazo
+me he caído urgente en la cocina,alerta
+apúntame ponerme las gotas en una hora que suene fuerte,recordatorio
+estoy triste si puedes,social
+apúntame poner la insulina cuando acabe el telediario si puedes,recordatorio
+anímame un poco cuando te venga bien gracias,social
+no quiero hablar ahora por favor quiero dormir,rechazo
+déjalo en la agenda poner la insulina a las 9 por favor,recordatorio
+qué puedo hacer de cena por favor,abierta
+necesito ayuda no me dejes sola estoy en el salón,alerta
+ponme un recordatorio para beber agua a las 10 si puedes,recordatorio
+que no se me olvide hacer la compra a las 9 que no se me pase,recordatorio
+ponme un recordatorio para llamar al médico cuando acabe el telediario,recordatorio
+me dejas en paz gracias me duele la cabeza,rechazo
+hazme recordar hacer la compra a las 9 que no se me pase,recordatorio
+tengo fiebre urgente,alerta
+me siento solo cuando te venga bien por favor,social
+cómo pedir cita con el médico en Madrid gracias,abierta
+cómo se prepara un cocido,abierta
+pon la COPE si puedes,social
+no me apetece estoy comiendo,rechazo
+cómo se prepara un cocido para torpes,abierta
+ponme las noticias por favor,abierta
+avísame de poner la insulina dentro de media hora que suene fuerte,recordatorio
+que no se me olvide llamar al médico esta tarde por favor,recordatorio
+no quiero hablar ahora cariño,rechazo
+acuérdate de hacer los ejercicios a las 8 por favor,recordatorio
+qué tiempo hará mañana paso a paso por favor,abierta
+llama al médico que vengan ya en el pasillo,alerta

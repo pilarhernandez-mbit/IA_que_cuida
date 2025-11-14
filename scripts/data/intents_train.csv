@@ -1,0 +1,926 @@
+text,intent
+necesito ayuda urgente,alerta
+pon una alarma a las 20,recordatorio
+avisa a mi nieto,alerta
+quiero cocinar un cocido,abierta
+ahora no necesito nada,rechazo
+avisa a mi sobrina,alerta
+llama a Ignacio ahora,alerta
+no quiero hablar ahora,rechazo
+quiero un recordatorio para caminar 10 minutos,recordatorio
+ahora no necesito nada,rechazo
+llama a mi hija ahora,alerta
+qué tiempo hará mañana,abierta
+ahora no necesito nada,rechazo
+no quiero hablar ahora,rechazo
+avisa a mi nieto,alerta
+avisa a mi sobrina,alerta
+déjame en paz,rechazo
+recuérdame caminar 10 minutos a las 20,recordatorio
+recuérdame tomar la medicación a las 11,recordatorio
+buenas tardes,social
+prefiero que no,rechazo
+"hola, buenos días",social
+"hola, ¿qué tal?",social
+qué tiempo hará mañana,abierta
+prefiero que no,rechazo
+qué novedades hay en política,abierta
+esto es una emergencia,alerta
+por favor contacta con mi hijo,alerta
+qué tiempo hará mañana,abierta
+gracias,social
+qué novedades hay en política,abierta
+ponme al día con las noticias,abierta
+"hola, ¿qué tal?",social
+quiero cocinar un cocido,abierta
+quiero un recordatorio para hacer ejercicios,recordatorio
+esto es una emergencia,alerta
+apúntame beber agua para mañana,recordatorio
+apúntame hacer ejercicios para mañana,recordatorio
+qué novedades hay en política,abierta
+quiero un recordatorio para medir la tensión,recordatorio
+quiero un recordatorio para medir la tensión,recordatorio
+quiero un recordatorio para beber agua,recordatorio
+prefiero que no,rechazo
+"hola, buenos días",social
+buenas tardes,social
+qué novedades hay en política,abierta
+no me dejes olvidar caminar 10 minutos a las 20,recordatorio
+buenas tardes,social
+"adiós, hasta luego",social
+"no hace falta, gracias",rechazo
+ponme al día con las noticias,abierta
+enséñame una receta de lentejas,abierta
+qué novedades hay en política,abierta
+pon una alarma a las 21,recordatorio
+recuérdame hacer ejercicios a las 22,recordatorio
+enséñame una receta de lentejas,abierta
+recuérdame hacer ejercicios a las 10,recordatorio
+enséñame una receta de lentejas,abierta
+avisa a mi sobrina,alerta
+pon una alarma a las 20,recordatorio
+prefiero que no,rechazo
+qué novedades hay en política,abierta
+"hola, buenos días",social
+ahora no necesito nada,rechazo
+déjame en paz,rechazo
+no quiero hablar ahora,rechazo
+"hola, buenos días",social
+quiero un recordatorio para tomar la medicación,recordatorio
+buenas tardes,social
+esto es una emergencia,alerta
+"hola, buenos días",social
+"adiós, hasta luego",social
+gracias,social
+quiero un recordatorio para tomar la medicación,recordatorio
+necesito ayuda urgente,alerta
+llama a mi hijo ahora,alerta
+no quiero hablar ahora,rechazo
+necesito ayuda urgente,alerta
+apúntame tomar la medicación para mañana,recordatorio
+prefiero que no,rechazo
+qué novedades hay en política,abierta
+necesito ayuda urgente,alerta
+apúntame medir la tensión para mañana,recordatorio
+gracias,social
+qué novedades hay en política,abierta
+"hola, buenos días",social
+no quiero hablar ahora,rechazo
+apúntame beber agua para mañana,recordatorio
+"no hace falta, gracias",rechazo
+ahora no necesito nada,rechazo
+"hola, buenos días",social
+ponme al día con las noticias,abierta
+qué novedades hay en política,abierta
+ahora no necesito nada,rechazo
+prefiero que no,rechazo
+gracias,social
+llama a la enfermera ahora,alerta
+ponme al día con las noticias,abierta
+quiero cocinar un cocido,abierta
+"hola, buenos días",social
+quiero cocinar un cocido,abierta
+apúntame medir la tensión para mañana,recordatorio
+enséñame una receta de lentejas,abierta
+esto es una emergencia,alerta
+quiero un recordatorio para caminar 10 minutos,recordatorio
+quiero cocinar un cocido,abierta
+enséñame una receta de lentejas,abierta
+qué tiempo hará mañana,abierta
+"no hace falta, gracias",rechazo
+qué novedades hay en política,abierta
+prefiero que no,rechazo
+"no hace falta, gracias",rechazo
+recuérdame hacer ejercicios a las 21,recordatorio
+déjame en paz,rechazo
+quiero cocinar un cocido,abierta
+llama a Ignacio ahora,alerta
+apúntame medir la tensión para mañana,recordatorio
+"hola, ¿qué tal?",social
+avisa a mi vecina,alerta
+qué novedades hay en política,abierta
+por favor contacta con la enfermera,alerta
+"hola, buenos días",social
+pon una alarma a las 22,recordatorio
+llama a el médico ahora,alerta
+buenas tardes,social
+ponme al día con las noticias,abierta
+apúntame beber agua para mañana,recordatorio
+no quiero hablar ahora,rechazo
+apúntame beber agua para mañana,recordatorio
+no me dejes olvidar tomar la medicación a las 9,recordatorio
+ponme al día con las noticias,abierta
+recuérdame hacer ejercicios a las 20,recordatorio
+apúntame hacer ejercicios para mañana,recordatorio
+llama a mi hija ahora,alerta
+pon una alarma a las 9,recordatorio
+enséñame una receta de lentejas,abierta
+"no hace falta, gracias",rechazo
+no quiero hablar ahora,rechazo
+"hola, ¿qué tal?",social
+necesito ayuda urgente,alerta
+apúntame beber agua para mañana,recordatorio
+enséñame una receta de lentejas,abierta
+esto es una emergencia,alerta
+"hola, buenos días",social
+pon una alarma a las 8,recordatorio
+enséñame una receta de lentejas,abierta
+necesito ayuda urgente,alerta
+avisa a mi hijo,alerta
+"hola, ¿qué tal?",social
+"hola, buenos días",social
+no me dejes olvidar tomar la medicación a las 15,recordatorio
+por favor contacta con mi hija,alerta
+gracias,social
+prefiero que no,rechazo
+quiero un recordatorio para medir la tensión,recordatorio
+qué tiempo hará mañana,abierta
+déjame en paz,rechazo
+ponme al día con las noticias,abierta
+apúntame hacer ejercicios para mañana,recordatorio
+quiero un recordatorio para tomar la medicación,recordatorio
+gracias,social
+necesito ayuda urgente,alerta
+"hola, buenos días",social
+gracias,social
+recuérdame medir la tensión a las 22,recordatorio
+no quiero hablar ahora,rechazo
+pon una alarma a las 10,recordatorio
+apúntame beber agua para mañana,recordatorio
+necesito ayuda urgente,alerta
+necesito ayuda urgente,alerta
+esto es una emergencia,alerta
+necesito ayuda urgente,alerta
+"hola, ¿qué tal?",social
+prefiero que no,rechazo
+prefiero que no,rechazo
+llama a mi hijo ahora,alerta
+quiero cocinar un cocido,abierta
+avisa a mi vecina,alerta
+"no hace falta, gracias",rechazo
+prefiero que no,rechazo
+"adiós, hasta luego",social
+por favor contacta con Ignacio,alerta
+por favor contacta con mi hijo,alerta
+"hola, buenos días",social
+pon una alarma a las 15,recordatorio
+buenas tardes,social
+"hola, buenos días",social
+"hola, ¿qué tal?",social
+qué tiempo hará mañana,abierta
+necesito ayuda urgente,alerta
+qué tiempo hará mañana,abierta
+prefiero que no,rechazo
+"hola, ¿qué tal?",social
+avisa a mi vecina,alerta
+"hola, buenos días",social
+quiero cocinar un cocido,abierta
+prefiero que no,rechazo
+quiero un recordatorio para hacer ejercicios,recordatorio
+enséñame una receta de lentejas,abierta
+apúntame tomar la medicación para mañana,recordatorio
+qué novedades hay en política,abierta
+qué novedades hay en política,abierta
+ponme al día con las noticias,abierta
+"no hace falta, gracias",rechazo
+recuérdame medir la tensión a las 15,recordatorio
+avisa a mi nieto,alerta
+qué novedades hay en política,abierta
+"no hace falta, gracias",rechazo
+recuérdame hacer ejercicios a las 21,recordatorio
+prefiero que no,rechazo
+quiero cocinar un cocido,abierta
+quiero cocinar un cocido,abierta
+buenas tardes,social
+necesito ayuda urgente,alerta
+qué tiempo hará mañana,abierta
+"no hace falta, gracias",rechazo
+buenas tardes,social
+déjame en paz,rechazo
+no me dejes olvidar caminar 10 minutos a las 8,recordatorio
+esto es una emergencia,alerta
+no quiero hablar ahora,rechazo
+ahora no necesito nada,rechazo
+"hola, buenos días",social
+quiero cocinar un cocido,abierta
+ahora no necesito nada,rechazo
+"hola, buenos días",social
+déjame en paz,rechazo
+déjame en paz,rechazo
+enséñame una receta de lentejas,abierta
+por favor contacta con Ignacio,alerta
+qué novedades hay en política,abierta
+déjame en paz,rechazo
+esto es una emergencia,alerta
+déjame en paz,rechazo
+buenas tardes,social
+"hola, ¿qué tal?",social
+ponme al día con las noticias,abierta
+déjame en paz,rechazo
+apúntame beber agua para mañana,recordatorio
+ponme al día con las noticias,abierta
+ponme al día con las noticias,abierta
+"hola, ¿qué tal?",social
+no me dejes olvidar tomar la medicación a las 10,recordatorio
+enséñame una receta de lentejas,abierta
+necesito ayuda urgente,alerta
+quiero un recordatorio para caminar 10 minutos,recordatorio
+qué tiempo hará mañana,abierta
+"hola, buenos días",social
+"hola, buenos días",social
+qué tiempo hará mañana,abierta
+recuérdame caminar 10 minutos a las 22,recordatorio
+quiero cocinar un cocido,abierta
+"adiós, hasta luego",social
+quiero cocinar un cocido,abierta
+pon una alarma a las 9,recordatorio
+esto es una emergencia,alerta
+"adiós, hasta luego",social
+ahora no necesito nada,rechazo
+esto es una emergencia,alerta
+"hola, buenos días",social
+recuérdame medir la tensión a las 20,recordatorio
+apúntame hacer ejercicios para mañana,recordatorio
+no me dejes olvidar beber agua a las 9,recordatorio
+pon una alarma a las 20,recordatorio
+déjame en paz,rechazo
+"adiós, hasta luego",social
+qué tiempo hará mañana,abierta
+necesito ayuda urgente,alerta
+quiero un recordatorio para medir la tensión,recordatorio
+apúntame beber agua para mañana,recordatorio
+esto es una emergencia,alerta
+enséñame una receta de lentejas,abierta
+no me dejes olvidar hacer ejercicios a las 10,recordatorio
+ahora no necesito nada,rechazo
+"hola, buenos días",social
+quiero cocinar un cocido,abierta
+pon una alarma a las 11,recordatorio
+enséñame una receta de lentejas,abierta
+déjame en paz,rechazo
+por favor contacta con mi hijo,alerta
+ponme al día con las noticias,abierta
+buenas tardes,social
+necesito ayuda urgente,alerta
+avisa a mi nieto,alerta
+"no hace falta, gracias",rechazo
+llama a mi hija ahora,alerta
+prefiero que no,rechazo
+avisa a mi sobrina,alerta
+enséñame una receta de lentejas,abierta
+ahora no necesito nada,rechazo
+"adiós, hasta luego",social
+"hola, buenos días",social
+ponme al día con las noticias,abierta
+qué tiempo hará mañana,abierta
+quiero cocinar un cocido,abierta
+"hola, buenos días",social
+por favor contacta con la enfermera,alerta
+"hola, buenos días",social
+apúntame beber agua para mañana,recordatorio
+no quiero hablar ahora,rechazo
+"no hace falta, gracias",rechazo
+"no hace falta, gracias",rechazo
+déjame en paz,rechazo
+por favor contacta con Ignacio,alerta
+no me dejes olvidar beber agua a las 21,recordatorio
+ahora no necesito nada,rechazo
+"hola, buenos días",social
+quiero cocinar un cocido,abierta
+apúntame hacer ejercicios para mañana,recordatorio
+"hola, ¿qué tal?",social
+qué novedades hay en política,abierta
+recuérdame medir la tensión a las 10,recordatorio
+prefiero que no,rechazo
+recuérdame tomar la medicación a las 8,recordatorio
+no me dejes olvidar hacer ejercicios a las 8,recordatorio
+"adiós, hasta luego",social
+qué tiempo hará mañana,abierta
+ponme al día con las noticias,abierta
+quiero cocinar un cocido,abierta
+gracias,social
+gracias,social
+llama a Ignacio ahora,alerta
+no me dejes olvidar caminar 10 minutos a las 11,recordatorio
+"hola, ¿qué tal?",social
+qué novedades hay en política,abierta
+necesito ayuda urgente,alerta
+pon una alarma a las 10,recordatorio
+gracias,social
+"hola, ¿qué tal?",social
+"hola, ¿qué tal?",social
+llama a el médico ahora,alerta
+ponme al día con las noticias,abierta
+recuérdame caminar 10 minutos a las 20,recordatorio
+por favor contacta con la enfermera,alerta
+no me dejes olvidar caminar 10 minutos a las 20,recordatorio
+quiero cocinar un cocido,abierta
+"no hace falta, gracias",rechazo
+esto es una emergencia,alerta
+no quiero hablar ahora,rechazo
+qué tiempo hará mañana,abierta
+por favor contacta con el médico,alerta
+no me dejes olvidar caminar 10 minutos a las 22,recordatorio
+quiero un recordatorio para tomar la medicación,recordatorio
+enséñame una receta de lentejas,abierta
+por favor contacta con el médico,alerta
+no me dejes olvidar caminar 10 minutos a las 20,recordatorio
+por favor contacta con mi hijo,alerta
+llama a mi hija ahora,alerta
+"no hace falta, gracias",rechazo
+qué novedades hay en política,abierta
+buenas tardes,social
+por favor contacta con la enfermera,alerta
+ahora no necesito nada,rechazo
+avisa a mi vecina,alerta
+ponme al día con las noticias,abierta
+no me dejes olvidar tomar la medicación a las 21,recordatorio
+por favor contacta con la enfermera,alerta
+avisa a mi hija,alerta
+gracias,social
+quiero cocinar un cocido,abierta
+gracias,social
+enséñame una receta de lentejas,abierta
+"no hace falta, gracias",rechazo
+déjame en paz,rechazo
+"adiós, hasta luego",social
+recuérdame hacer ejercicios a las 8,recordatorio
+prefiero que no,rechazo
+pon una alarma a las 21,recordatorio
+por favor contacta con Ignacio,alerta
+"hola, ¿qué tal?",social
+enséñame una receta de lentejas,abierta
+quiero un recordatorio para caminar 10 minutos,recordatorio
+necesito ayuda urgente,alerta
+qué tiempo hará mañana,abierta
+"adiós, hasta luego",social
+recuérdame caminar 10 minutos a las 8,recordatorio
+quiero un recordatorio para caminar 10 minutos,recordatorio
+pon una alarma a las 11,recordatorio
+no me dejes olvidar hacer ejercicios a las 22,recordatorio
+pon una alarma a las 11,recordatorio
+quiero un recordatorio para beber agua,recordatorio
+ponme al día con las noticias,abierta
+qué tiempo hará mañana,abierta
+déjame en paz,rechazo
+déjame en paz,rechazo
+esto es una emergencia,alerta
+esto es una emergencia,alerta
+"adiós, hasta luego",social
+ponme al día con las noticias,abierta
+quiero un recordatorio para beber agua,recordatorio
+buenas tardes,social
+no quiero hablar ahora,rechazo
+enséñame una receta de lentejas,abierta
+ahora no necesito nada,rechazo
+recuérdame beber agua a las 8,recordatorio
+qué novedades hay en política,abierta
+"hola, buenos días",social
+buenas tardes,social
+prefiero que no,rechazo
+llama a mi hija ahora,alerta
+pon una alarma a las 21,recordatorio
+"adiós, hasta luego",social
+"hola, ¿qué tal?",social
+buenas tardes,social
+apúntame beber agua para mañana,recordatorio
+buenas tardes,social
+por favor contacta con el médico,alerta
+apúntame medir la tensión para mañana,recordatorio
+no me dejes olvidar tomar la medicación a las 9,recordatorio
+apúntame hacer ejercicios para mañana,recordatorio
+apúntame hacer ejercicios para mañana,recordatorio
+llama a el médico ahora,alerta
+gracias,social
+quiero un recordatorio para caminar 10 minutos,recordatorio
+esto es una emergencia,alerta
+ahora no necesito nada,rechazo
+avisa a mi sobrina,alerta
+llama a mi hija ahora,alerta
+gracias,social
+no quiero hablar ahora,rechazo
+qué tiempo hará mañana,abierta
+quiero cocinar un cocido,abierta
+recuérdame tomar la medicación a las 10,recordatorio
+avisa a mi vecina,alerta
+déjame en paz,rechazo
+apúntame hacer ejercicios para mañana,recordatorio
+recuérdame hacer ejercicios a las 20,recordatorio
+ahora no necesito nada,rechazo
+prefiero que no,rechazo
+enséñame una receta de lentejas,abierta
+ponme al día con las noticias,abierta
+quiero cocinar un cocido,abierta
+prefiero que no,rechazo
+gracias,social
+prefiero que no,rechazo
+"no hace falta, gracias",rechazo
+no me dejes olvidar hacer ejercicios a las 15,recordatorio
+quiero cocinar un cocido,abierta
+"adiós, hasta luego",social
+necesito ayuda urgente,alerta
+gracias,social
+"hola, ¿qué tal?",social
+enséñame una receta de lentejas,abierta
+por favor contacta con mi hijo,alerta
+no quiero hablar ahora,rechazo
+"hola, ¿qué tal?",social
+no quiero hablar ahora,rechazo
+qué novedades hay en política,abierta
+ahora no necesito nada,rechazo
+no me dejes olvidar tomar la medicación a las 22,recordatorio
+esto es una emergencia,alerta
+necesito ayuda urgente,alerta
+qué novedades hay en política,abierta
+quiero un recordatorio para caminar 10 minutos,recordatorio
+por favor contacta con mi hija,alerta
+quiero un recordatorio para caminar 10 minutos,recordatorio
+ponme al día con las noticias,abierta
+"hola, ¿qué tal?",social
+qué novedades hay en política,abierta
+llama a mi hija ahora,alerta
+qué novedades hay en política,abierta
+apúntame medir la tensión para mañana,recordatorio
+avisa a mi sobrina,alerta
+pon una alarma a las 21,recordatorio
+quiero cocinar un cocido,abierta
+necesito ayuda urgente,alerta
+"no hace falta, gracias",rechazo
+llama a el médico ahora,alerta
+qué novedades hay en política,abierta
+"adiós, hasta luego",social
+por favor contacta con mi hija,alerta
+"hola, ¿qué tal?",social
+pon una alarma a las 8,recordatorio
+quiero cocinar un cocido,abierta
+pon una alarma a las 8,recordatorio
+"hola, ¿qué tal?",social
+apúntame beber agua para mañana,recordatorio
+déjame en paz,rechazo
+"adiós, hasta luego",social
+necesito ayuda urgente,alerta
+"adiós, hasta luego",social
+prefiero que no,rechazo
+quiero un recordatorio para beber agua,recordatorio
+"no hace falta, gracias",rechazo
+por favor contacta con el médico,alerta
+"no hace falta, gracias",rechazo
+llama a la enfermera ahora,alerta
+esto es una emergencia,alerta
+ponme al día con las noticias,abierta
+pon una alarma a las 22,recordatorio
+buenas tardes,social
+"adiós, hasta luego",social
+por favor contacta con mi hija,alerta
+enséñame una receta de lentejas,abierta
+por favor contacta con mi hija,alerta
+por favor contacta con la enfermera,alerta
+qué novedades hay en política,abierta
+no me dejes olvidar medir la tensión a las 10,recordatorio
+déjame en paz,rechazo
+ponme al día con las noticias,abierta
+recuérdame tomar la medicación a las 15,recordatorio
+qué tiempo hará mañana,abierta
+quiero cocinar un cocido,abierta
+quiero un recordatorio para tomar la medicación,recordatorio
+no quiero hablar ahora,rechazo
+buenas tardes,social
+qué novedades hay en política,abierta
+"hola, ¿qué tal?",social
+quiero cocinar un cocido,abierta
+recuérdame caminar 10 minutos a las 20,recordatorio
+"no hace falta, gracias",rechazo
+enséñame una receta de lentejas,abierta
+"no hace falta, gracias",rechazo
+por favor contacta con Ignacio,alerta
+avisa a mi nieto,alerta
+ahora no necesito nada,rechazo
+no me dejes olvidar medir la tensión a las 10,recordatorio
+no me dejes olvidar caminar 10 minutos a las 8,recordatorio
+no quiero hablar ahora,rechazo
+enséñame una receta de lentejas,abierta
+recuérdame tomar la medicación a las 20,recordatorio
+déjame en paz,rechazo
+pon una alarma a las 21,recordatorio
+qué tiempo hará mañana,abierta
+"no hace falta, gracias",rechazo
+enséñame una receta de lentejas,abierta
+no quiero hablar ahora,rechazo
+buenas tardes,social
+buenas tardes,social
+déjame en paz,rechazo
+"hola, ¿qué tal?",social
+"adiós, hasta luego",social
+"no hace falta, gracias",rechazo
+gracias,social
+qué tiempo hará mañana,abierta
+buenas tardes,social
+quiero un recordatorio para caminar 10 minutos,recordatorio
+llama a la enfermera ahora,alerta
+"no hace falta, gracias",rechazo
+qué novedades hay en política,abierta
+por favor contacta con mi hija,alerta
+pon una alarma a las 8,recordatorio
+"hola, buenos días",social
+gracias,social
+necesito ayuda urgente,alerta
+ahora no necesito nada,rechazo
+esto es una emergencia,alerta
+ahora no necesito nada,rechazo
+no quiero hablar ahora,rechazo
+avisa a mi vecina,alerta
+"adiós, hasta luego",social
+quiero un recordatorio para tomar la medicación,recordatorio
+enséñame una receta de lentejas,abierta
+esto es una emergencia,alerta
+apúntame hacer ejercicios para mañana,recordatorio
+déjame en paz,rechazo
+"hola, ¿qué tal?",social
+recuérdame hacer ejercicios a las 11,recordatorio
+"adiós, hasta luego",social
+quiero un recordatorio para hacer ejercicios,recordatorio
+déjame en paz,rechazo
+prefiero que no,rechazo
+déjame en paz,rechazo
+qué novedades hay en política,abierta
+qué novedades hay en política,abierta
+buenas tardes,social
+qué tiempo hará mañana,abierta
+no quiero hablar ahora,rechazo
+por favor contacta con el médico,alerta
+gracias,social
+"no hace falta, gracias",rechazo
+necesito ayuda urgente,alerta
+gracias,social
+gracias,social
+necesito ayuda urgente,alerta
+esto es una emergencia,alerta
+"hola, ¿qué tal?",social
+no me dejes olvidar tomar la medicación a las 20,recordatorio
+déjame en paz,rechazo
+avisa a mi hija,alerta
+llama a mi hija ahora,alerta
+quiero cocinar un cocido,abierta
+esto es una emergencia,alerta
+ahora no necesito nada,rechazo
+déjame en paz,rechazo
+apúntame caminar 10 minutos para mañana,recordatorio
+prefiero que no,rechazo
+avisa a mi sobrina,alerta
+"hola, ¿qué tal?",social
+"hola, buenos días",social
+buenas tardes,social
+qué tiempo hará mañana,abierta
+quiero un recordatorio para medir la tensión,recordatorio
+gracias,social
+quiero un recordatorio para hacer ejercicios,recordatorio
+qué tiempo hará mañana,abierta
+no me dejes olvidar caminar 10 minutos a las 22,recordatorio
+pon una alarma a las 8,recordatorio
+"no hace falta, gracias",rechazo
+pon una alarma a las 11,recordatorio
+recuérdame hacer ejercicios a las 15,recordatorio
+qué tiempo hará mañana,abierta
+enséñame una receta de lentejas,abierta
+esto es una emergencia,alerta
+ponme al día con las noticias,abierta
+enséñame una receta de lentejas,abierta
+llama a el médico ahora,alerta
+avisa a mi hija,alerta
+pon una alarma a las 11,recordatorio
+"hola, buenos días",social
+ponme al día con las noticias,abierta
+qué novedades hay en política,abierta
+por favor contacta con mi hijo,alerta
+esto es una emergencia,alerta
+llama a la enfermera ahora,alerta
+recuérdame hacer ejercicios a las 20,recordatorio
+necesito ayuda urgente,alerta
+déjame en paz,rechazo
+prefiero que no,rechazo
+enséñame una receta de lentejas,abierta
+"adiós, hasta luego",social
+necesito ayuda urgente,alerta
+quiero un recordatorio para caminar 10 minutos,recordatorio
+ponme al día con las noticias,abierta
+quiero cocinar un cocido,abierta
+qué tiempo hará mañana,abierta
+avisa a mi vecina,alerta
+quiero cocinar un cocido,abierta
+llama a el médico ahora,alerta
+no quiero hablar ahora,rechazo
+quiero un recordatorio para tomar la medicación,recordatorio
+qué tiempo hará mañana,abierta
+necesito ayuda urgente,alerta
+"no hace falta, gracias",rechazo
+qué tiempo hará mañana,abierta
+quiero un recordatorio para caminar 10 minutos,recordatorio
+pon una alarma a las 8,recordatorio
+apúntame hacer ejercicios para mañana,recordatorio
+gracias,social
+avisa a mi vecina,alerta
+buenas tardes,social
+avisa a mi hija,alerta
+esto es una emergencia,alerta
+qué novedades hay en política,abierta
+gracias,social
+recuérdame hacer ejercicios a las 21,recordatorio
+enséñame una receta de lentejas,abierta
+recuérdame medir la tensión a las 9,recordatorio
+ponme al día con las noticias,abierta
+prefiero que no,rechazo
+avisa a mi sobrina,alerta
+prefiero que no,rechazo
+no quiero hablar ahora,rechazo
+ahora no necesito nada,rechazo
+"hola, ¿qué tal?",social
+gracias,social
+qué novedades hay en política,abierta
+por favor contacta con la enfermera,alerta
+qué novedades hay en política,abierta
+"no hace falta, gracias",rechazo
+esto es una emergencia,alerta
+qué tiempo hará mañana,abierta
+enséñame una receta de lentejas,abierta
+por favor contacta con Ignacio,alerta
+quiero un recordatorio para medir la tensión,recordatorio
+no quiero hablar ahora,rechazo
+gracias,social
+esto es una emergencia,alerta
+"hola, ¿qué tal?",social
+enséñame una receta de lentejas,abierta
+avisa a mi sobrina,alerta
+no me dejes olvidar medir la tensión a las 11,recordatorio
+enséñame una receta de lentejas,abierta
+prefiero que no,rechazo
+apúntame medir la tensión para mañana,recordatorio
+"no hace falta, gracias",rechazo
+"hola, ¿qué tal?",social
+esto es una emergencia,alerta
+déjame en paz,rechazo
+llama a el médico ahora,alerta
+ponme al día con las noticias,abierta
+enséñame una receta de lentejas,abierta
+quiero cocinar un cocido,abierta
+gracias,social
+"adiós, hasta luego",social
+enséñame una receta de lentejas,abierta
+"adiós, hasta luego",social
+pon una alarma a las 15,recordatorio
+buenas tardes,social
+ponme al día con las noticias,abierta
+llama a mi hija ahora,alerta
+ponme al día con las noticias,abierta
+recuérdame hacer ejercicios a las 15,recordatorio
+esto es una emergencia,alerta
+"adiós, hasta luego",social
+déjame en paz,rechazo
+recuérdame caminar 10 minutos a las 21,recordatorio
+no me dejes olvidar tomar la medicación a las 10,recordatorio
+esto es una emergencia,alerta
+por favor contacta con la enfermera,alerta
+apúntame hacer ejercicios para mañana,recordatorio
+llama a la enfermera ahora,alerta
+avisa a mi sobrina,alerta
+quiero un recordatorio para medir la tensión,recordatorio
+déjame en paz,rechazo
+no quiero hablar ahora,rechazo
+"hola, buenos días",social
+quiero cocinar un cocido,abierta
+gracias,social
+no me dejes olvidar caminar 10 minutos a las 20,recordatorio
+gracias,social
+"hola, buenos días",social
+esto es una emergencia,alerta
+qué novedades hay en política,abierta
+apúntame hacer ejercicios para mañana,recordatorio
+prefiero que no,rechazo
+enséñame una receta de lentejas,abierta
+quiero cocinar un cocido,abierta
+buenas tardes,social
+no me dejes olvidar caminar 10 minutos a las 22,recordatorio
+ponme al día con las noticias,abierta
+apúntame medir la tensión para mañana,recordatorio
+llama a la enfermera ahora,alerta
+pon una alarma a las 8,recordatorio
+"adiós, hasta luego",social
+buenas tardes,social
+no me dejes olvidar tomar la medicación a las 22,recordatorio
+por favor contacta con mi hija,alerta
+recuérdame beber agua a las 9,recordatorio
+recuérdame hacer ejercicios a las 11,recordatorio
+déjame en paz,rechazo
+recuérdame hacer ejercicios a las 15,recordatorio
+enséñame una receta de lentejas,abierta
+llama a mi hijo ahora,alerta
+avisa a mi hija,alerta
+no quiero hablar ahora,rechazo
+enséñame una receta de lentejas,abierta
+ponme al día con las noticias,abierta
+no quiero hablar ahora,rechazo
+pon una alarma a las 21,recordatorio
+recuérdame caminar 10 minutos a las 9,recordatorio
+"hola, ¿qué tal?",social
+pon una alarma a las 11,recordatorio
+ahora no necesito nada,rechazo
+esto es una emergencia,alerta
+buenas tardes,social
+no quiero hablar ahora,rechazo
+apúntame beber agua para mañana,recordatorio
+"adiós, hasta luego",social
+ponme al día con las noticias,abierta
+"adiós, hasta luego",social
+"adiós, hasta luego",social
+prefiero que no,rechazo
+gracias,social
+pon una alarma a las 9,recordatorio
+buenas tardes,social
+ahora no necesito nada,rechazo
+qué tiempo hará mañana,abierta
+prefiero que no,rechazo
+quiero cocinar un cocido,abierta
+recuérdame beber agua a las 20,recordatorio
+qué tiempo hará mañana,abierta
+llama a Ignacio ahora,alerta
+no me dejes olvidar caminar 10 minutos a las 11,recordatorio
+por favor contacta con mi hijo,alerta
+ahora no necesito nada,rechazo
+quiero un recordatorio para hacer ejercicios,recordatorio
+necesito ayuda urgente,alerta
+buenas tardes,social
+recuérdame beber agua a las 22,recordatorio
+"adiós, hasta luego",social
+pon una alarma a las 10,recordatorio
+no me dejes olvidar hacer ejercicios a las 15,recordatorio
+enséñame una receta de lentejas,abierta
+qué tiempo hará mañana,abierta
+prefiero que no,rechazo
+quiero un recordatorio para beber agua,recordatorio
+necesito ayuda urgente,alerta
+no me dejes olvidar tomar la medicación a las 15,recordatorio
+apúntame medir la tensión para mañana,recordatorio
+gracias,social
+recuérdame hacer ejercicios a las 9,recordatorio
+no me dejes olvidar beber agua a las 8,recordatorio
+no me dejes olvidar caminar 10 minutos a las 20,recordatorio
+necesito ayuda urgente,alerta
+"no hace falta, gracias",rechazo
+quiero un recordatorio para medir la tensión,recordatorio
+ahora no necesito nada,rechazo
+qué tiempo hará mañana,abierta
+avisa a mi nieto,alerta
+"adiós, hasta luego",social
+"hola, buenos días",social
+apúntame medir la tensión para mañana,recordatorio
+pon una alarma a las 8,recordatorio
+quiero cocinar un cocido,abierta
+"no hace falta, gracias",rechazo
+ahora no necesito nada,rechazo
+qué novedades hay en política,abierta
+"adiós, hasta luego",social
+esto es una emergencia,alerta
+quiero un recordatorio para caminar 10 minutos,recordatorio
+ponme al día con las noticias,abierta
+apúntame medir la tensión para mañana,recordatorio
+avisa a mi nieto,alerta
+recuérdame medir la tensión a las 9,recordatorio
+recuérdame hacer ejercicios a las 21,recordatorio
+no quiero hablar ahora,rechazo
+no me dejes olvidar caminar 10 minutos a las 21,recordatorio
+ponme al día con las noticias,abierta
+qué tiempo hará mañana,abierta
+por favor contacta con mi hija,alerta
+no quiero hablar ahora,rechazo
+ahora no necesito nada,rechazo
+qué novedades hay en política,abierta
+buenas tardes,social
+buenas tardes,social
+gracias,social
+pon una alarma a las 21,recordatorio
+recuérdame beber agua a las 20,recordatorio
+ponme al día con las noticias,abierta
+pon una alarma a las 20,recordatorio
+prefiero que no,rechazo
+llama a mi hijo ahora,alerta
+avisa a mi hijo,alerta
+no me dejes olvidar beber agua a las 10,recordatorio
+ahora no necesito nada,rechazo
+déjame en paz,rechazo
+esto es una emergencia,alerta
+qué novedades hay en política,abierta
+qué novedades hay en política,abierta
+prefiero que no,rechazo
+apúntame hacer ejercicios para mañana,recordatorio
+qué novedades hay en política,abierta
+pon una alarma a las 15,recordatorio
+no quiero hablar ahora,rechazo
+quiero un recordatorio para tomar la medicación,recordatorio
+"hola, buenos días",social
+qué novedades hay en política,abierta
+déjame en paz,rechazo
+"no hace falta, gracias",rechazo
+llama a mi hija ahora,alerta
+qué tiempo hará mañana,abierta
+qué tiempo hará mañana,abierta
+buenas tardes,social
+pon una alarma a las 10,recordatorio
+"adiós, hasta luego",social
+necesito ayuda urgente,alerta
+"hola, buenos días",social
+gracias,social
+necesito ayuda urgente,alerta
+no me dejes olvidar tomar la medicación a las 10,recordatorio
+avisa a mi vecina,alerta
+pon una alarma a las 8,recordatorio
+enséñame una receta de lentejas,abierta
+no quiero hablar ahora,rechazo
+apúntame caminar 10 minutos para mañana,recordatorio
+ponme al día con las noticias,abierta
+buenas tardes,social
+no me dejes olvidar caminar 10 minutos a las 20,recordatorio
+"adiós, hasta luego",social
+no quiero hablar ahora,rechazo
+ahora no necesito nada,rechazo
+ponme al día con las noticias,abierta
+qué tiempo hará mañana,abierta
+gracias,social
+no me dejes olvidar medir la tensión a las 15,recordatorio
+avisa a mi hijo,alerta
+déjame en paz,rechazo
+no me dejes olvidar tomar la medicación a las 15,recordatorio
+quiero cocinar un cocido,abierta
+quiero cocinar un cocido,abierta
+gracias,social
+no quiero hablar ahora,rechazo
+necesito ayuda urgente,alerta
+quiero cocinar un cocido,abierta
+qué tiempo hará mañana,abierta
+enséñame una receta de lentejas,abierta
+buenas tardes,social
+por favor contacta con el médico,alerta
+ahora no necesito nada,rechazo
+"adiós, hasta luego",social
+necesito ayuda urgente,alerta
+apúntame medir la tensión para mañana,recordatorio
+qué tiempo hará mañana,abierta
+pon una alarma a las 9,recordatorio
+"hola, ¿qué tal?",social
+ahora no necesito nada,rechazo
+ahora no necesito nada,rechazo
+"no hace falta, gracias",rechazo
+"hola, buenos días",social
+esto es una emergencia,alerta
+prefiero que no,rechazo
+avisa a mi hija,alerta
+quiero cocinar un cocido,abierta
+"hola, ¿qué tal?",social
+no quiero hablar ahora,rechazo
+quiero cocinar un cocido,abierta
+pon una alarma a las 22,recordatorio
+ahora no necesito nada,rechazo
+quiero un recordatorio para hacer ejercicios,recordatorio
+recuérdame caminar 10 minutos a las 9,recordatorio
+llama a mi hija ahora,alerta
+necesito ayuda urgente,alerta
+ahora no necesito nada,rechazo
+buenas tardes,social
+qué tiempo hará mañana,abierta
+"no hace falta, gracias",rechazo
+llama a la enfermera ahora,alerta
+"hola, ¿qué tal?",social
+ponme al día con las noticias,abierta
+"hola, ¿qué tal?",social
+"hola, ¿qué tal?",social
+no me dejes olvidar beber agua a las 20,recordatorio
+"no hace falta, gracias",rechazo
+"adiós, hasta luego",social
+qué tiempo hará mañana,abierta
+quiero cocinar un cocido,abierta
+déjame en paz,rechazo
+esto es una emergencia,alerta
+llama a mi hija ahora,alerta
+ponme al día con las noticias,abierta
+quiero un recordatorio para hacer ejercicios,recordatorio
+llama a Ignacio ahora,alerta
+ponme al día con las noticias,abierta
+no quiero hablar ahora,rechazo

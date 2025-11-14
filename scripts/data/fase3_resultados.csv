@@ -1,0 +1,9 @@
+timestamp,frase,intencion,emocion,usar_llm
+2025-11-10T04:58:08,"Hola, ¿qué tal estás hoy?",saludo,neutral,True
+2025-11-10T04:58:08,Estoy muy solo y triste,expresión emocional,tristeza,True
+2025-11-10T04:58:08,No quiero tomar más pastillas,rechazo,neutral,False
+2025-11-10T04:58:08,"Gracias por todo, hasta mañana",desconocido,neutral,False
+2025-11-10T04:58:08,Tengo miedo de quedarme solo,desconocido,soledad,True
+2025-11-10T04:58:08,¿Puedes ayudarme con la medicación?,petición de ayuda,neutral,True
+2025-11-10T04:58:08,"Buenas tardes, vengo a por la receta",saludo,neutral,False
+2025-11-10T04:58:08,"No me encuentro bien, me duele el pecho",expresión emocional,dolor,False

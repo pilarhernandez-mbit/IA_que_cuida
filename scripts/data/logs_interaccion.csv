@@ -1,0 +1,62 @@
+"fecha_hora","usuario","perfil_usuario","texto_inicial_escrito","intent","score","emotion","decision","texto_base","texto_natural","fuente","llm","nivel_dependencia"
+"2025-11-12 20:55:26","Juan","Dependiente","Me gustan las patatas.","recordatorio","0.782","others","plantilla","Juan, he apuntado el recordatorio. Te avisaré a la hora indicada.","Juan, he apuntado el recordatorio. Te avisaré a la hora indicada.","plantilla","","Dependiente"
+"2025-11-12 21:03:28","Juan","Dependiente","y es mi cumpleaños","alerta","0.888","joy","plantilla","Te he entendido, Juan. ¿Quieres que lo anote o que te recuerde algo concreto?","Te he entendido, Juan. ¿Quieres que lo anote o que te recuerde algo concreto?","plantilla","","Dependiente"
+"2025-11-12 21:09:00","Juan","Dependiente","y es mi cumpleaños","alerta","0.888","joy","plantilla","Te he entendido, Juan. ¿Quieres que lo anote o que te recuerde algo concreto?","Te he entendido, Juan. ¿Quieres que lo anote o que te recuerde algo concreto?","plantilla","","Dependiente"
+"2025-11-12 21:10:32","Juan","Dependiente","Hola, hoy voy a ir a dar un paseo con mis vecinos.","social","0.3","others","llm","Paciente: Juan
+Dependencia: Dependiente
+Intención: social (score=0.30)
+Emoción: neutral
+Entidades: {}
+Entrada: Hola, hoy voy a ir a dar un paseo con mis vecinos.
+
+Responde en español, 1–2 frases, claro, amable y seguro para persona mayor.","¡Hola, Juan! Me alegra saber que vas a dar un paseo con tus vecinos. Disfruta de la compañía y del aire fresco.","plantilla","","Dependiente"
+"2025-11-12 21:12:27","Juan","Dependiente","es el cumpleaños de mi nieta","alerta","0.786","joy","plantilla","Te he entendido, Juan. ¿Quieres que lo anote o que te recuerde algo concreto?","Te he entendido, Juan. ¿Quieres que lo anote o que te recuerde algo concreto?","plantilla","","Dependiente"
+"2025-11-12 21:13:09","Juan","Dependiente","Este se ha muerto mi vecino.","alerta","0.865","others","plantilla","Te he entendido, Juan. ¿Quieres que lo anote o que te recuerde algo concreto?","Te he entendido, Juan. ¿Quieres que lo anote o que te recuerde algo concreto?","plantilla","","Dependiente"
+"2025-11-12 21:14:05","Juan","Dependiente","Este se ha muerto mi vecino.","alerta","0.865","others","plantilla","Te he entendido, Juan. ¿Quieres que lo anote o que te recuerde algo concreto?","Te he entendido, Juan. ¿Quieres que lo anote o que te recuerde algo concreto?","plantilla","","Dependiente"
+"2025-11-12 21:16:41","Juan","Dependiente","Esto se ha muerto mi vecino.","alerta","0.888","others","plantilla","Te he entendido, Juan. ¿Quieres que lo anote o que te recuerde algo concreto?","Te he entendido, Juan. ¿Quieres que lo anote o que te recuerde algo concreto?","plantilla","","Dependiente"
+"2025-11-12 21:17:41","Juan","Dependiente","Me gusta randillo","recordatorio","0.502","joy","plantilla","Juan, he apuntado el recordatorio. Te avisaré a la hora indicada.","Juan, he apuntado el recordatorio. Te avisaré a la hora indicada.","plantilla","","Dependiente"
+"2025-11-12 21:18:51","Juan","Dependiente","y gusta hacer gancillo","recordatorio","0.602","others","plantilla","Juan, he apuntado el recordatorio. Te avisaré a la hora indicada.","Juan, he apuntado el recordatorio. Te avisaré a la hora indicada.","plantilla","","Dependiente"
+"2025-11-12 21:19:39","Juan","Dependiente","y gusta hacer gancillo","recordatorio","0.602","others","plantilla","Juan, he apuntado el recordatorio. Te avisaré a la hora indicada.","Juan, he apuntado el recordatorio. Te avisaré a la hora indicada.","plantilla","","Dependiente"
+"2025-11-12 21:21:09","ana","Semi-dependiente","el grupo, pues es que puede pasar esto perfectamente","alerta","0.692","others","plantilla","Te he entendido, ana. ¿Quieres que lo anote o que te recuerde algo concreto?","Te he entendido, ana. ¿Quieres que lo anote o que te recuerde algo concreto?","plantilla","","Semi-dependiente"
+"2025-11-12 21:22:53","ana","Semi-dependiente","el grupo, pues es que puede pasar esto perfectamente","alerta","0.692","others","plantilla","Te he entendido, ana. ¿Quieres que lo anote o que te recuerde algo concreto?","Te he entendido, ana. ¿Quieres que lo anote o que te recuerde algo concreto?","plantilla","","Semi-dependiente"
+"2025-11-12 21:25:51","ana","Semi-dependiente","el grupo, pues es que puede pasar esto perfectamente","alerta","0.692","others","plantilla","Te he entendido, ana. ¿Quieres que lo anote o que te recuerde algo concreto?","Te he entendido, ana. ¿Quieres que lo anote o que te recuerde algo concreto?","plantilla","","Semi-dependiente"
+"2025-11-13 14:41:52","Paciente","Dependiente","Hoy hace un trisimo. ¿Qué pereza? ¿Dásalir a la calle?","abierta","0.333","neutral","llm","Paciente: Paciente
+Dependencia: Dependiente
+Intención: abierta (score=0.33)
+Emoción: neutral
+Entidades: {}
+Entrada: Hoy hace un trisimo. ¿Qué pereza? ¿Dásalir a la calle?
+
+Responde en español, 1–2 frases, claro, amable y seguro para persona mayor.","Entiendo que el clima puede desanimar un poco, pero a veces un poco de aire fresco puede hacer maravillas. Si te sientes con ánimo, podríamos dar un paseo corto.","plantilla","","Dependiente"
+"2025-11-13 14:44:33","Paciente","Dependiente","Cumple años, cumple 67.","social","0.3","neutral","llm","Paciente: Paciente
+Dependencia: Dependiente
+Intención: social (score=0.30)
+Emoción: neutral
+Entidades: {}
+Entrada: Cumple años, cumple 67.
+
+Responde en español, 1–2 frases, claro, amable y seguro para persona mayor.","¡Feliz cumpleaños! Espero que tengas un día lleno de alegría y buenos momentos en este nuevo año de vida.","plantilla","","Dependiente"
+"2025-11-13 14:46:29","Paciente","Dependiente","Cumple años, cumple 67.","social","0.3","alegría","llm","Paciente: Paciente
+Dependencia: Dependiente
+Intención: social (score=0.30)
+Emoción: neutral
+Entidades: {}
+Entrada: Cumple años, cumple 67.
+
+Responde en español, 1–2 frases, claro, amable y seguro para persona mayor.","¡Feliz cumpleaños! Espero que disfrutes de este día tan especial y que tengas un año lleno de alegría y salud.","plantilla","","Dependiente"
+"2025-11-13 16:50:47","Paciente","Dependiente","Cumple años, cumple 67.","social","0.3","alegría","llm","Paciente: Paciente
+Dependencia: Dependiente
+Intención: social (score=0.30)
+Emoción: neutral
+Entidades: {}
+Entrada: Cumple años, cumple 67.
+
+Responde en español, 1–2 frases, claro, amable y seguro para persona mayor.","¡Feliz cumpleaños! Espero que este nuevo año de vida te traiga mucha alegría y momentos especiales.","plantilla","","Dependiente"
+"2025-11-14 10:29:04","Valeria","Semi-dependiente","Hoy voy a ir al supermercado a comprar que se me ha acabado las lentejas.","social","0.3","otros","llm","Paciente: Valeria
+Dependencia: Semi-dependiente
+Intención: social (score=0.30)
+Emoción: neutral
+Entidades: {}
+Entrada: Hoy voy a ir al supermercado a comprar que se me ha acabado las lentejas.
+
+Responde en español, 1–2 frases, claro, amable y seguro para persona mayor.","Hola Valeria, es excelente que vayas al supermercado. No olvides llevar una lista para que no se te pase nada importante. ¡Que tengas un buen día!","plantilla","","Semi-dependiente"

@@ -1,0 +1,45 @@
+timestamp,text,pred_intent,score,method,expected,is_correct,reply
+2025-11-10T05:07:56,Recuérdame tomar la medicación a las 3,recordatorio,0.8692497844407313,ml,recordatorio,True,"Hola Esther, te lo apunto.
+🗓️ Recordatorio: tomar la medicación.
+Te avisaré a tiempo. ¿Quieres una repetición diaria?
+(modo salida: voz)"
+2025-11-10T05:07:56,Pon una alarma mañana a las 8,recordatorio,0.8812318428293665,ml,recordatorio,True,"Hola Esther, te lo apunto.
+🗓️ Recordatorio: tomar la medicación.
+Te avisaré a tiempo. ¿Quieres una repetición diaria?
+(modo salida: voz)"
+2025-11-10T05:07:56,Me duele el pecho y tengo mareo intenso,alerta,0.3333333333333333,rules,alerta,True,"Hola Esther. Estoy aquí para ayudarte.
+⚠️ He entendido: Me duele el pecho y tengo mareo intenso.
+Voy a priorizar tu seguridad. Si es una emergencia, marca 112. Puedo llamar a Ignacio (tel: +34 600 000 000) si me lo confirmas.
+¿Quieres que avise a Ignacio ahora? (tel: +34 600 000 000)
+Mientras tanto, siéntate y respira despacio. Estoy contigo.
+(modo salida: voz)"
+2025-11-10T05:07:56,Llama a mi hijo por favor,alerta,0.9187916625689634,ml,alerta,True,"Hola Esther. Estoy aquí para ayudarte.
+⚠️ He entendido: Llama a mi hijo por favor.
+Vamos a gestionarlo con calma. Puedo llamar a Ignacio (tel: +34 600 000 000) si me lo confirmas.
+¿Quieres que avise a Ignacio ahora? (tel: +34 600 000 000)
+Mientras tanto, siéntate y respira despacio. Estoy contigo.
+(modo salida: voz)"
+2025-11-10T05:07:56,"Estoy muy solo, quiero hablar un rato",social,0.3,rules,social,True,"Hola Esther.
+Siento que te sientas así. ¿Te apetece que hablemos un rato?
+¿Quieres que llame a alguien de tu familia?
+(modo salida: voz)"
+2025-11-10T05:07:56,Cuéntame algo interesante,social,0.2,rules,social,True,"Hola Esther.
+¿Te cuento una curiosidad del día o prefieres música?
+¿Quieres que llame a alguien de tu familia?
+(modo salida: voz)"
+2025-11-10T05:07:56,"No quiero hablar ahora, déjame",rechazo,0.7833014376432121,ml,rechazo,True,"Entiendo, Esther. No insistiré.
+Gracias por decírmelo. Me quedaré atento por si me necesitas.
+Si cambias de idea, solo dímelo.
+(modo salida: voz)"
+2025-11-10T05:07:56,"No necesito ayuda, gracias",rechazo,0.8550235348577705,ml,rechazo,True,"Entiendo, Esther. No insistiré.
+Gracias por decírmelo. Me quedaré atento por si me necesitas.
+Si cambias de idea, solo dímelo.
+(modo salida: voz)"
+2025-11-10T05:07:56,"Hola, ¿cómo estás?",social,0.8475091448077142,ml,social,True,"Hola Esther.
+¿Te cuento una curiosidad del día o prefieres música?
+¿Quieres que llame a alguien de tu familia?
+(modo salida: voz)"
+2025-11-10T05:07:56,"Gracias, hasta luego",social,0.8219754326983754,ml,social,True,"Hola Esther.
+¿Te cuento una curiosidad del día o prefieres música?
+¿Quieres que llame a alguien de tu familia?
+(modo salida: voz)"
