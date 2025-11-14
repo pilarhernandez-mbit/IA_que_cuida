@@ -103,7 +103,7 @@ dist/
 ---
 
 ## 👥 Autores
-- Esther Llueve Alonso  
+- Esther Lueje Alonso  
 - Pilar Hernández Lozano  
 - Alfredo Cueva Escudero  
 
