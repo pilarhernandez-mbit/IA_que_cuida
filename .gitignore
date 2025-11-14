@@ -24,12 +24,6 @@ __pycache__/
 *.DS_Store
 *.orig
 
-# ---------------------------
-# Carpeta de datos y modelos grandes
-# ---------------------------
-# Si tus modelos son demasiado grandes y no quieres subirlos
-models/*.joblib
-scripts/data/*.csv
 
 # ---------------------------
 # Streamlit y otros cachés
