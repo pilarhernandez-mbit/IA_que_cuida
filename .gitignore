@@ -1,0 +1,38 @@
+# ---------------------------
+# Entorno virtual
+# ---------------------------
+tfm_env/
+*.env
+
+# ---------------------------
+# Python
+# ---------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+*.sqlite3
+
+# ---------------------------
+# Archivos de logs y temporales
+# ---------------------------
+*.log
+*.tmp
+*.bak
+*.DS_Store
+*.orig
+
+# ---------------------------
+# Carpeta de datos y modelos grandes
+# ---------------------------
+# Si tus modelos son demasiado grandes y no quieres subirlos
+models/*.joblib
+scripts/data/*.csv
+
+# ---------------------------
+# Streamlit y otros cachés
+# ---------------------------
+.cache/
+*.streamlit/
