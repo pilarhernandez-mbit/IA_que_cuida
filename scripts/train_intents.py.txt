@@ -1,0 +1,42 @@
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.linear_model import LogisticRegression
+from sklearn.preprocessing import LabelEncoder
+import joblib
+import os
+
+# === 1. Carga de datos ===
+data_path = os.path.join(os.path.dirname(__file__), "data", "intents_train_expanded.csv")
+df = pd.read_csv(data_path)
+
+print("Dataset cargado:", df.shape)
+print("Columnas:", df.columns.tolist())
+
+X = df["text"]
+y = df["intent"]
+
+# === 2. Codificación y vectorización ===
+le = LabelEncoder()
+y_encoded = le.fit_transform(y)
+
+vectorizer = TfidfVectorizer(ngram_range=(1, 2), max_features=5000)
+X_vec = vectorizer.fit_transform(X)
+
+# === 3. Entrenamiento ===
+X_train, X_test, y_train, y_test = train_test_split(X_vec, y_encoded, test_size=0.2, random_state=42)
+
+clf = LogisticRegression(max_iter=1000, solver="lbfgs")
+clf.fit(X_train, y_train)
+
+print("Entrenamiento completado ✅")
+
+# === 4. Guardado ===
+models_dir = os.path.join(os.path.dirname(__file__), "..", "models")
+os.makedirs(models_dir, exist_ok=True)
+
+joblib.dump(clf, os.path.join(models_dir, "intent_clf.joblib"))
+joblib.dump(le, os.path.join(models_dir, "label_encoder.joblib"))
+joblib.dump(vectorizer, os.path.join(models_dir, "vectorizer.joblib"))
+
+print("Modelos guardados en:", models_dir)

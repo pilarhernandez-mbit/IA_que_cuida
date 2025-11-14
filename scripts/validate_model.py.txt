@@ -1,0 +1,34 @@
+import pandas as pd
+import joblib
+from sklearn.metrics import classification_report, confusion_matrix
+from sklearn.model_selection import train_test_split
+import os
+
+# === 1. Carga de datos ===
+data_path = os.path.join(os.path.dirname(__file__), "data", "intents_train_expanded.csv")
+df = pd.read_csv(data_path)
+
+X = df["text"]
+y = df["intent"]
+
+# === 2. Carga de modelos entrenados ===
+models_dir = os.path.join(os.path.dirname(__file__), "..", "models")
+clf = joblib.load(os.path.join(models_dir, "intent_clf.joblib"))
+le = joblib.load(os.path.join(models_dir, "label_encoder.joblib"))
+vectorizer = joblib.load(os.path.join(models_dir, "vectorizer.joblib"))
+
+# === 3. Preparación de datos ===
+X_vec = vectorizer.transform(X)
+y_encoded = le.transform(y)
+
+# === 4. Evaluación ===
+X_train, X_test, y_train, y_test = train_test_split(X_vec, y_encoded, test_size=0.2, random_state=42)
+
+y_pred = clf.predict(X_test)
+report = classification_report(y_test, y_pred, target_names=le.classes_)
+cm = confusion_matrix(y_test, y_pred)
+
+print("=== RESULTADOS DE VALIDACIÓN ===")
+print(report)
+print("Matriz de confusión:")
+print(cm)
